@@ -1,0 +1,5 @@
+Q: Name 3 non-catchable signals.
+Ans: Following are non-catchable signals:
+1.SIGKILL (It kills a process)
+2.SIGINT  (It interrupts a process)
+3.SIGSTOP (It stops a process)
